@@ -1,6 +1,7 @@
-### Expression Language in JSP
+## Expression Language in JSP
 
 ### Why Shouldn’t use Scriptlets and JSP Expression in JSP?
+#
 
 • The intention of JSP: Designed for the presentation layer as View.
 
@@ -9,6 +10,7 @@
 ![image](https://github.com/PD-Repo-Point/jsp-el-Demo/assets/104901724/002327b3-7575-4606-9ea2-27fbc673ebe2)
 
 ### Expression Language in JSP
+#
 
 • Simplifies the accessibility of data stored in the Java Bean component, and other 
 objects like request, session, application etc. 
@@ -22,6 +24,7 @@ objects like request, session, application etc.
   
 
 ### EL Property Access Operator or Dot (.) Operator
+#
 
 •${firstObj.secondObj} 
 
@@ -41,6 +44,7 @@ objects like request, session, application etc.
 
 
 ### Expression Language - Expression
+#
 
 •${something} 
 
@@ -55,6 +59,7 @@ use it
 5. Otherwise ignore this expression
 
 ### JSP EL [] Operator or Collection Access Operator
+#
 
 • ${firstObj[secondObj]} 
 
